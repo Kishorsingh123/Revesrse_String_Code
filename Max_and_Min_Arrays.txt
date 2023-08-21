@@ -1,0 +1,70 @@
+ public class maxAndMinArray1{
+    
+	public static void main(String []args)
+	
+	int a[] = {1,2,3,4,5,6,7,8,9,10};
+	
+	 Arrays.sort(a);
+	 System.out.Println("min="+a[0] +"Max="+a[a.length-1])
+	 
+}	 
+public class MaxandMinArray2{
+    public static void main(String[]args)
+	
+	int a[]={1,2,3,4,5,6,7,8,9,10};
+	
+	Arrays.sort(a);
+	Syso("mix-"+a[0] +"Max -"+a[a.length-1]);
+}	
+public class MaxandMinArray3{
+   public static void main(String[]args)
+  int a[]= {1,2,3,4,5,6,7,8,9};
+  Arrays.sort(a);
+  Syso("Min-"+a[0] +"max-"+a[a.length-1]);
+}
+public class MaxandMinArray3{
+   public static void main(String[]args)
+   int a[]={1,2,3,4,5,6,7,8,9};
+   Arrays.sort(a);
+   Syso("min-"+[0] + "max -"+a[a.length-1]);
+}
+public class MaxandMinArray4{
+    public stastic void main(String[]args)
+	int a[] = {1,2,3,4,5,6,7,8,9};
+	Arrays.sort(a);
+	Syso("min-"+a[0] + "max-"+a[a.length-1]);
+	
+}
+
+public class MaxandMinArray5{
+   public static void main(String []args)
+   int a[]={1,2,3,4,5,6,7,8,9,10};
+   Arrays.Sort(a);
+   Syso("min-"+a[0] + "max-"+a[a.length-1]);
+}
+
+public class MaxandMinArray6{
+   public static void main(String[]args)
+   
+   int a[]={1,2,3,4,5,6,7,8,9,10};
+   
+   Arrays.sort(a);
+   Syso("min-"+a[0] + "max -"+a[a.length]);
+   
+}
+
+public class MaxandMinArray7{
+  public static void main(String[]args)
+  
+  int a[] = {1,2,3,4,5,6,7,8,9,10};
+  Arrays.sort(a);
+  Syso("min-"+a[0] + "max-"+a[a.length-1]);
+}
+
+public class MaxandMinArray8{
+    public static void main(String[]args)
+	int a[]={1,2,3,4,5,6,7,8,9,10};
+	Arrays.sort(a);
+	Syso("min-"+a[0] + "max-"+a[a.length-1]);
+}
+

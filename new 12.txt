@@ -1,0 +1,17 @@
+ public class reverseStroing1{
+    
+	public static void main(String[]args)
+	
+	String str = "Kishor";
+	String stRev = " ";
+	char ch;
+	
+	for(int i=str.length()-1;i>0;i--)
+	{
+	    ch = str.charAt(i);
+		stRev = stRev+ch;
+	}
+	System.Out.Println("This is Reverse asting ="+stRev)
+ 
+ 
+ }
